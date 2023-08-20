@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shubh Srivastava 🦥
 - 🏫 Student at IIT Madras 🎓
-- 👀 I’m interested in Computers 👨‍💻
+- 👀 I’m interested in Tech 👨‍💻
 - 🌱 I’m currently learning Data Science 🧮
 - 💞️ I’m looking to collaborate on Open Source Projects 🤝
 - 📫 How to reach me @idleshubh across social media platforms 🌐
