@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Shubh Srivastava 🦥
+- 🏫 Student at IIT Madras 🎓
 - 👀 I’m interested in Computers 👨‍💻
 - 🌱 I’m currently learning Data Science 🧮
 - 💞️ I’m looking to collaborate on Open Source Projects 🤝
