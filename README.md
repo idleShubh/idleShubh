@@ -88,7 +88,7 @@
 <p align="center" style="display: flex; gap: 30px;">
 <a href="https://x.com/idleshubh"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.png" alt="idleShubh" height="30" /></a>
 <a href="https://www.linkedin.com/in/srivastavshubh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="idleShubh" height="30" /></a>
-<a href="https://discord.gg/943799728490045480" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="idleShubh" height="30"/></a>
+<a href="https://www.discordapp.com/users/943799728490045480" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="idleShubh" height="30"/></a>
 </p> 
 
 <!---
