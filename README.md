@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning everything xD
 
-- ⚡**SEEK DISCOMFORT**
+- ⚡**SEEK DISCOMFORT!!**
 
 - 📫 How to reach me **idleshubh@gmail.com**
 
