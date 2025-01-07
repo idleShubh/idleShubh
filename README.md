@@ -11,7 +11,7 @@
 
 - ⚡**SEEK DISCOMFORT!!**
 
-- 📫 How to reach me **idleshubh@gmail.com**
+- 📫 How to reach me **@idleshubh**
 
 
 <h3 align="left">Languages and Tools:</h3>
