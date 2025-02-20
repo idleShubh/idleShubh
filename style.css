@@ -177,6 +177,7 @@ a:hover{
     main {
         margin-left: 0;
         padding: 10px;
+        min-height: calc(100vh - 100px); /* Adjust the min-height to ensure content is not hidden */
     }
 
     .blogs{
