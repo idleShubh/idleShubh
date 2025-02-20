@@ -136,7 +136,7 @@ a:hover{
 
 .resume-link {
     font-family: 'DM Serif Display', serif;
-    position: absolute;
+    position: fixed;
     bottom: 50px;
     right: 50px;
     color: var(--main-color);
