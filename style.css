@@ -113,6 +113,30 @@ a:hover{
     animation: blurIn 1.5s ease-in-out;
 }
 
+.quote {
+    font-family: 'DM Serif Display', serif;
+    font-size: 1em;
+    color: var(--second-second-color);
+    text-align: center;
+    margin-top: 50px;
+    padding: 20px;
+    animation: fadeIn 1s ease-in-out;
+    position: fixed;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    animation: blurIn 1.25s ease-in-out;
+}
+
+.quote-author {
+    display: block;
+    margin-top: 10px;
+    font-size: 1em;
+    color: var(--second-second-color);
+    font-style: italic;
+    animation: blurIn 1.25s ease-in-out;
+}
+
 /* Keyframes for animations */
 @keyframes fadeIn {
     from {
@@ -184,5 +208,11 @@ a:hover{
         display: flex;
         flex-direction: column;
         animation: blurIn 1.5s ease-in-out;
+    }
+
+    .quote {
+        position: static;
+        transform: none;
+        margin-top: 20px;
     }
 }
