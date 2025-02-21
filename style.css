@@ -113,6 +113,10 @@ a:hover{
     animation: blurIn 1.5s ease-in-out;
 }
 
+.quote, .quote-author {
+    color: var(--main-color); /* Ensure visibility */
+}
+
 .quote {
     font-family: 'DM Serif Display', serif;
     font-size: 1em;
@@ -136,6 +140,8 @@ a:hover{
     font-style: italic;
     animation: blurIn 1.25s ease-in-out;
 }
+
+
 
 /* Keyframes for animations */
 @keyframes fadeIn {
@@ -214,6 +220,5 @@ a:hover{
         position: static;
         transform: none;
         margin-top: 20px;
-        color: var(--second-second-color);
     }
 }
